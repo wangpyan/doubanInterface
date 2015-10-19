@@ -9,6 +9,7 @@ doubanInterface 类含有如下方法：
 
 > get_book_info(book_id)                               #获取一本书的信息  
 
+###疑似乱码部分用文本输出方式均可被正常识别。
 
 #用法
 ###get_group_booklist(group_id)
